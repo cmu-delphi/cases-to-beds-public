@@ -1,2 +1,2 @@
-# cases-to-beds-public
+# Cases2Beds
 Public versions of Cases2Beds
