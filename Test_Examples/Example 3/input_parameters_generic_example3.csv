@@ -1,0 +1,17 @@
+age,race,gender,hosp_rate,pos_one_day,frac_less_1,mean_greater_1,mean,frac_0
+unspecified,unspecified,unspecified,0.07,0.14575904,0,6.49013261,4.6,0.05
+0-9,unspecified,unspecified,0.01,0.15882353,0,5.59782609,4.268,0.05
+10-19,unspecified,unspecified,0.01,0.15384615,0,5,4.268,0.05
+20-29,unspecified,unspecified,0.01,0.18518519,0,5,5.74,0.05
+30-39,unspecified,unspecified,0.02,0.14021739,0,5.85343228,5.74,0.05
+40-49,unspecified,unspecified,0.04,0.13188406,0,6.52257336,7.175,0.05
+50-59,unspecified,unspecified,0.07,0.13895431,0,6.22534143,8.61,0.05
+60-69,unspecified,unspecified,0.13,0.14053156,0,6.59255262,9.32,0.05
+70-79,unspecified,unspecified,0.31,0.1416309,0,6.57222941,10.03,0.05
+80+,unspecified,unspecified,0.31,0.15789474,0,6.81111635,9.34,0.05
+unspecified,Asian,unspecified,0.04,0.14575904,0,6.49013261,4.6,0.05
+unspecified,Black,unspecified,0.11,0.14575904,0,6.49013261,4.6,0.05
+unspecified,Hispanic,unspecified,0.19,0.14575904,0,6.49013261,4.6,0.05
+unspecified,White,unspecified,0.08,0.14575904,0,6.49013261,4.6,0.05
+unspecified,unspecified,M,0.07,0.14573089,0,6.48994764,4.6,0.05
+unspecified,unspecified,F,0.08,0.14314762,0,6.53941541,4.6,0.05

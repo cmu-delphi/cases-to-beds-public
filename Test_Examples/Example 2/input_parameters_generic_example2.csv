@@ -1,0 +1,17 @@
+age,race,gender,hosp_rate,pos_one_day,frac_less_1,mean_greater_1,mean,frac_0
+unspecified,unspecified,unspecified,0.1000,0.1500,0.1200,7.00,5.00,0.0100
+0-9,unspecified,unspecified,0.1000,0.1500,0.1300,8.00,6.00,0.0100
+10-19,unspecified,unspecified,0.1000,0.1500,0.1400,4.00,7.00,0.0100
+20-29,unspecified,unspecified,0.1000,0.1500,0.1500,3.00,8.00,0.0100
+30-39,unspecified,unspecified,0.1000,0.1500,0.1200,2.00,9.00,0.0100
+40-49,unspecified,unspecified,0.1000,0.1500,0.1300,6.00,7.00,0.0100
+50-59,unspecified,unspecified,0.1000,0.1500,0.1400,8.00,6.00,0.0100
+60-69,unspecified,unspecified,0.1000,0.1500,0.1500,9.00,8.00,0.0100
+70-79,unspecified,unspecified,0.1000,0.1500,0.1200,1.00,9.00,0.0100
+80+,unspecified,unspecified,0.1000,0.1500,0.1200,2.00,9.00,0.0100
+unspecified,Asian,unspecified,0.1000,0.1500,0.1200,3.00,9.00,0.0100
+unspecified,Black,unspecified,0.1000,0.1500,0.1200,5.00,9.00,0.0100
+unspecified,Hispanic,unspecified,0.1000,0.1500,0.1200,7.00,8.00,0.0100
+unspecified,White,unspecified,0.1000,0.1500,0.1200,9.00,8.00,0.0100
+unspecified,unspecified,M,0.1000,0.1500,0.1200,3.00,8.00,0.0100
+unspecified,unspecified,F,0.1000,0.1500,0.1200,4.00,8.00,0.0100
