@@ -5,6 +5,7 @@ Public versions of Cases2Beds. [Full methodology](https://delphi.cmu.edu/blog/20
 ## Input Files:
 1. "Easy Input" Tab
 Opt 1a. distribution_example.csv: A set of values to split the cases by age group (no other functionality) 
+
 Opt 1b. cases_example.csv: The number of cases per day - can be output from covidcast.
 
 2. "Cases (the input)" Tab: 
