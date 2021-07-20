@@ -341,6 +341,7 @@ def gen_plot_C2B(age_df, in_params):
     The output is the output to C2B.
     """
     plot_df, mean, var = C2B(in_params, age_df)
+    plot_df = plot_df.sort_values(by="dates").reset_index(drop=True)
     plot_df.to_csv("C2B_output.csv")
     fig = ae_plot(plot_df)
     fig.show()
