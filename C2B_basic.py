@@ -97,7 +97,6 @@ def d_d(p1, p2):
         for j in range(1, 41):
             duration_dict[j] = round(round(expon.pdf(
                 j-1, 0, p1), 10) * (1-p2) * round((1/exp_sum), 10), 10)
-    tmp_sum_2 = 0
     return duration_dict
 
 
